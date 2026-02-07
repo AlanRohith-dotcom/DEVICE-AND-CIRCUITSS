@@ -67,4 +67,5 @@ Forward Resistance RF = ΔVF/ ΔIF (Ω)
 Reverse Resistance RR = ΔVR/ ΔIR (Ω) 
 
 # RESULT :
+<img width="1123" height="530" alt="image" src="https://github.com/user-attachments/assets/40c7cef5-85d9-4603-9393-f074f96e9309" />
 
